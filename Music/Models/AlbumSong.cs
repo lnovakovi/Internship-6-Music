@@ -8,5 +8,6 @@ namespace Music.Models
     {
         public int AlbumId { get; set; }
         public int SongId { get; set; }
+
     }
 }

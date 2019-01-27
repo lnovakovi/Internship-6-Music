@@ -10,6 +10,7 @@ namespace Music.Models
         public string Name { get; set; }
         public string Nationality { get; set; }
 
-        public List<Artist> _ListOfAlbumsOfArtists;
+        public List<Album> _ListOfAlbumsOfArtists;
+
     }
 }
